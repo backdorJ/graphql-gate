@@ -1,0 +1,293 @@
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/appsettings.json
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/Graphql.Gateway.exe
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/Graphql.Gateway.deps.json
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/Graphql.Gateway.runtimeconfig.json
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/Graphql.Gateway.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/Graphql.Gateway.pdb
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.csproj.AssemblyReference.cache
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.AssemblyInfoInputs.cache
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.AssemblyInfo.cs
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.csproj.CoreCompileInputs.cache
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/staticwebassets/msbuild.Graphql.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/staticwebassets/msbuild.build.Graphql.Gateway.props
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Graphql.Gateway.props
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Graphql.Gateway.props
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/scopedcss/bundle/Graphql.Gateway.styles.css
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/Graphql..55E35A9D.Up2Date
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/refint/Graphql.Gateway.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.pdb
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.genruntimeconfig.cache
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/obj/Debug/net8.0/ref/Graphql.Gateway.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/ChilliCream.Nitro.App.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/GreenDonut.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/GreenDonut.Abstractions.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/GreenDonut.Data.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/GreenDonut.Data.Abstractions.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/GreenDonut.Data.Primitives.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Abstractions.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.AspNetCore.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.AspNetCore.CommandLine.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Authorization.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.CostAnalysis.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Execution.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Execution.Abstractions.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Execution.Projections.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Features.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Fetching.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Fusion.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Fusion.Abstractions.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Language.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Language.SyntaxTree.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Language.Utf8.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Language.Visitors.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Language.Web.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Primitives.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Subscriptions.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Subscriptions.InMemory.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Transport.Abstractions.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Transport.Http.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Transport.Sockets.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Transport.Sockets.Client.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.CursorPagination.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.Errors.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.Mutations.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.OffsetPagination.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.Queries.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.Scalars.Upload.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.Shared.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Utilities.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Utilities.DependencyInjection.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Validation.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/System.CommandLine.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/System.IO.Hashing.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/System.IO.Packaging.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/System.Reactive.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/Yarp.ReverseProxy.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/cs/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/de/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/es/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/fr/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/it/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/ja/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/ko/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/pl/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/pt-BR/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/ru/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/tr/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/zh-Hans/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/zh-Hant/System.CommandLine.resources.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Fusion.Composition.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Fusion.SourceSchema.dll
+C:/Users/Damir/Desktop/graphql/GraphQL/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Skimmed.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/appsettings.Development.json
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/appsettings.json
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/Graphql.Gateway.staticwebassets.endpoints.json
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/Graphql.Gateway
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/Graphql.Gateway.deps.json
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/Graphql.Gateway.runtimeconfig.json
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/Graphql.Gateway.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/Graphql.Gateway.pdb
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/ChilliCream.Nitro.App.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/GreenDonut.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/GreenDonut.Abstractions.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/GreenDonut.Data.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/GreenDonut.Data.Abstractions.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/GreenDonut.Data.Primitives.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Abstractions.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.AspNetCore.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.AspNetCore.CommandLine.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Authorization.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.CostAnalysis.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Execution.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Execution.Abstractions.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Execution.Projections.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Features.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Fetching.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Fusion.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Fusion.Abstractions.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Fusion.Composition.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Fusion.SourceSchema.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Language.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Language.SyntaxTree.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Language.Utf8.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Language.Visitors.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Language.Web.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Primitives.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Skimmed.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Subscriptions.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Subscriptions.InMemory.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Transport.Abstractions.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Transport.Http.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Transport.Sockets.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Transport.Sockets.Client.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.CursorPagination.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.Errors.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.Mutations.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.OffsetPagination.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.Queries.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.Scalars.Upload.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Types.Shared.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Utilities.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Utilities.DependencyInjection.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/HotChocolate.Validation.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/System.CommandLine.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/System.IO.Hashing.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/System.IO.Packaging.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/System.Reactive.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/Yarp.ReverseProxy.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/cs/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/de/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/es/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/fr/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/it/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/ja/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/ko/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/pl/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/pt-BR/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/ru/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/tr/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/zh-Hans/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/bin/Debug/net8.0/zh-Hant/System.CommandLine.resources.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.csproj.AssemblyReference.cache
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.AssemblyInfoInputs.cache
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.AssemblyInfo.cs
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.csproj.CoreCompileInputs.cache
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.MvcApplicationPartsAssemblyInfo.cs
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.MvcApplicationPartsAssemblyInfo.cache
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.sourcelink.json
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/scopedcss/bundle/Graphql.Gateway.styles.css
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/staticwebassets.build.json
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/staticwebassets.development.json
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/staticwebassets/msbuild.Graphql.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/staticwebassets/msbuild.Graphql.Gateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/staticwebassets/msbuild.build.Graphql.Gateway.props
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Graphql.Gateway.props
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Graphql.Gateway.props
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/Graphql..55E35A9D.Up2Date
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/refint/Graphql.Gateway.dll
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.pdb
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/Graphql.Gateway.genruntimeconfig.cache
+/Users/ivansosorin/Downloads/GraphQL — копия/Graphql.Gateway/obj/Debug/net8.0/ref/Graphql.Gateway.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\appsettings.json
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\Graphql.Gateway.exe
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\Graphql.Gateway.deps.json
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\Graphql.Gateway.runtimeconfig.json
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\Graphql.Gateway.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\Graphql.Gateway.pdb
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\ChilliCream.Nitro.App.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\GreenDonut.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\GreenDonut.Abstractions.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\GreenDonut.Data.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\GreenDonut.Data.Abstractions.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\GreenDonut.Data.Primitives.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Abstractions.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.AspNetCore.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.AspNetCore.CommandLine.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Authorization.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.CostAnalysis.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Execution.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Execution.Abstractions.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Execution.Projections.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Features.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Fetching.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Fusion.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Fusion.Abstractions.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Fusion.Composition.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Fusion.SourceSchema.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Language.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Language.SyntaxTree.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Language.Utf8.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Language.Visitors.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Language.Web.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Primitives.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Skimmed.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Subscriptions.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Transport.Abstractions.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Transport.Http.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Transport.Sockets.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Transport.Sockets.Client.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Types.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Types.CursorPagination.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Types.Errors.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Types.Mutations.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Types.OffsetPagination.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Types.Queries.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Types.Shared.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Utilities.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Utilities.DependencyInjection.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\HotChocolate.Validation.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\System.CommandLine.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\cs\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\de\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\es\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\fr\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\it\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\ja\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\ko\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\pl\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\ru\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\tr\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\bin\Debug\net8.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\Graphql.Gateway.csproj.AssemblyReference.cache
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\Graphql.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\Graphql.Gateway.AssemblyInfoInputs.cache
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\Graphql.Gateway.AssemblyInfo.cs
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\Graphql.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\Graphql.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\Graphql.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\Graphql.Gateway.sourcelink.json
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.Graphql.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Graphql.Gateway.props
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Graphql.Gateway.props
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Graphql.Gateway.props
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\scopedcss\bundle\Graphql.Gateway.styles.css
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\Graphql..55E35A9D.Up2Date
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\Graphql.Gateway.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\refint\Graphql.Gateway.dll
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\Graphql.Gateway.pdb
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\Graphql.Gateway.genruntimeconfig.cache
+C:\Users\Damir\Desktop\GraphQL — копия\Graphql.Gateway\obj\Debug\net8.0\ref\Graphql.Gateway.dll

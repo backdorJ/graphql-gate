@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N+PXkeS7Ext6yh1CGlCk4puZS0SC31Oz0CkW8dLbeB4=",
+  "Source": "Graphql.Gateway",
+  "BasePath": "_content/Graphql.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

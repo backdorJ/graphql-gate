@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphql.ServiceQ", "Graphql.ServiceQ\Graphql.ServiceQ.csproj", "{E97EA2F9-39D4-4E78-B74A-CA8C3B4FD1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphql.Gateway", "Graphql.Gateway\Graphql.Gateway.csproj", "{031F974C-DA6C-4556-8755-B9FC8FF76C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E97EA2F9-39D4-4E78-B74A-CA8C3B4FD1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97EA2F9-39D4-4E78-B74A-CA8C3B4FD1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97EA2F9-39D4-4E78-B74A-CA8C3B4FD1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97EA2F9-39D4-4E78-B74A-CA8C3B4FD1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031F974C-DA6C-4556-8755-B9FC8FF76C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031F974C-DA6C-4556-8755-B9FC8FF76C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031F974C-DA6C-4556-8755-B9FC8FF76C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031F974C-DA6C-4556-8755-B9FC8FF76C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Graphql.Gateway.props" />
+</Project>
